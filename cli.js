@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var nsrank = require('./nsrank');
 
 nsrank.get(function (ranks) {

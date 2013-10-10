@@ -1,0 +1,22 @@
+{
+  "name": "nsrank",
+  "version": "0.1.0",
+  "description": "네이버 실시간 검색어 가져오기",
+  "main": "nsrank.js",
+  "dependencies": {
+    "restler": "~2.0.1"
+  },
+  "bin": {
+    "nsrank": "cli.js"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ohgyun/nsrank.git"
+  },
+  "author": "Ohgyun Ahn (ohgyun@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohgyun/nsrank/issues"
+  }
+}
